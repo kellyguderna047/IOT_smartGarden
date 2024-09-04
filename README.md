@@ -17,11 +17,11 @@ The Smart Garden project utilizes an ESP32 microcontroller connected to various 
 
 ## Project Structure
 
-- **esp/**: Source code for the ESP32 microcontroller.
+- **esp/main/**: Source code for the ESP32 microcontroller.
+- **esp/UnitTests/**: Unit tests for the ESP32 code and other components of the project.
 - **flutter/smart_garden/**: Flutter app code, written in Dart.
 - **functions/**: Cloud functions for Firebase.
 - **documentation/**: Additional documentation for setup, monitoring, and troubleshooting.
-- **tests/**: Unit tests for the ESP32 code and other components of the project.
 
 ## Libraries and Versions
 
