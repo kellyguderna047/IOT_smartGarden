@@ -12,7 +12,7 @@ The Smart Garden project utilizes an ESP32 microcontroller connected to various 
 ## Team Members
 
 - **Kelly Guderna**
-- **Yakir Biton**
+- **Yakir Bitton**
 - **Alon Orian Dean**
 
 ## Project Structure
