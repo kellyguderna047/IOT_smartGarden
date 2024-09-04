@@ -48,7 +48,7 @@ The Smart Garden project utilizes an ESP32 microcontroller connected to various 
 | Water Pumps                             | 4        |
 
 ## Connection Diagram
-![image](https://github.com/user-attachments/assets/276326bf-53f7-4a38-a7c3-f0f6d1ce512a)
+![electrical diagram](https://github.com/user-attachments/assets/b3a0b57c-aa14-4a35-9b67-ce32c08bfb01)
 
 
 
